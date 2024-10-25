@@ -176,8 +176,10 @@ a:hover {
   }
 
   #logo {
-    width: 100%;
-    top: 15%; /* Adjust logo position on smaller screens */
+    width: 60%;
+    top: 47.5%; /* Adjust logo position on smaller screens */
+    background-color: rgba(0, 0, 0, 0.2); /* Semi-transparent black */
+
   }
 
   .section {
